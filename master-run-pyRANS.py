@@ -1,7 +1,7 @@
 # Original CFD-solver written by Lars Davidsson, https://www.tfd.chalmers.se/~lada/pyCALC-RANS.html
 # This derivative of Lars Davidsson work is distributed with permission
 # Written for TRACKS course TRA220, https://www.tfd.chalmers.se/~lada/CUDA-tracks.html
-# This is a accelerated version written by Viktor Sundström and Joar Forsberg, dated 2023-01-20
+# This is a accelerated version written by Viktor Sundström and Joar Forsberg, dated 2024-01-20
 # Run the batch files using $ python exec-pyCALC-RANS.py NAME_OF_BATCHFILE (written without .py extension) 
 # Using supplied .py configfiles makes it easier to deploy and run large batches on compute cluster
 
